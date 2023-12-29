@@ -1,7 +1,7 @@
 [{
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://codeberg.org/KingSlayer/FaselHD",
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
     "fileSize": 16194,
     "status": 1,
     "language": "ar",
@@ -22,7 +22,7 @@
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://codeberg.org/KingSlayer/FaselHD",
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
     "fileSize": 19538,
     "status": 1,
     "language": "ar",
@@ -38,5 +38,24 @@
     "internalName": "MyCimaProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyCimaProvider.cs3",
     "name": "MyCimaProvider"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 16939,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "kingslayer_007"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 5,
+    "internalName": "FajerShowProvider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FajerShowProvider.cs3",
+    "name": "FajerShowProvider"
 }
 ]
