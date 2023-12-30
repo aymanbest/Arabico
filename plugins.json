@@ -79,7 +79,7 @@
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/yoyzo/arab",
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
     "fileSize": 16392,
     "status": 1,
     "language": "ar",
@@ -94,5 +94,46 @@
     "internalName": "ArabSeedProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 15389,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "kingslayer_007"
+    ],
+    "tvTypes": [
+        "Anime",
+        "AnimeMovie",
+        "Others"
+    ],
+    "version": 2,
+    "internalName": "Anime4upPack",
+    "description": "This pack contains Anime4up and Witanime",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/Anime4upPack.cs3",
+    "name": "Anime4upPack"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 13332,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "kingslayer_007"
+    ],
+    "tvTypes": [
+        "Anime",
+        "AnimeMovie",
+        "OVA"
+    ],
+    "version": 4,
+    "internalName": "AnimeBlkomProvider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
+    "name": "AnimeBlkomProvider"
 }
 ]
