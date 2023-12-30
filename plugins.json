@@ -75,5 +75,24 @@
     "internalName": "AnimeiatProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeiatProvider.cs3",
     "name": "AnimeiatProvider"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/yoyzo/arab",
+    "fileSize": 16392,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "kingslayer_007"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 9,
+    "internalName": "ArabSeedProvider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
+    "name": "ArabSeedProvider"
 }
 ]
