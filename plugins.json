@@ -71,7 +71,7 @@
     "tvTypes": [
         "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "AnimeiatProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeiatProvider.cs3",
     "name": "AnimeiatProvider"
