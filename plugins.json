@@ -131,7 +131,7 @@
         "AnimeMovie",
         "OVA"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "AnimeBlkomProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
     "name": "AnimeBlkomProvider"
