@@ -1,7 +1,8 @@
-version = 3
+version = 2
 
 cloudstream {
-    authors = listOf( "ImZaw" )
+    description = ""
+    authors = listOf( "kingslayer_007" )
 
     language = "ar"
 	
@@ -9,5 +10,5 @@ cloudstream {
 
     tvTypes = listOf( "TvSeries" , "Movie" )
 
-    iconUrl = "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%"
+    iconUrl = "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%"
 }
