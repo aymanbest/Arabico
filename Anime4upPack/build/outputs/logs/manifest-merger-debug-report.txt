@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml:2:1-35
+INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml:2:1-35
+INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml:2:1-35
+	package
+		ADDED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml:2:11-33
+		INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml:2:1-35
+uses-sdk
+INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Downloads\Compressed\cloudstream-extensions-arabic-master\Anime4upPack\src\main\AndroidManifest.xml

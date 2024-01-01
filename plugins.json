@@ -135,5 +135,24 @@
     "internalName": "AnimeBlkomProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
     "name": "AnimeBlkomProvider"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 16939,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "KingSlayer_007"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "Shoffree",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/ShoffreeProvider.cs3",
+    "name": "ShoffreeProvider"
 }
 ]
