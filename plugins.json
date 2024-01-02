@@ -150,7 +150,7 @@
         "TvSeries",
         "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Shoffree",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/ShoffreeProvider.cs3",
     "name": "ShoffreeProvider"
