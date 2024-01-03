@@ -154,5 +154,24 @@
     "internalName": "Shoffree",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/ShoffreeProvider.cs3",
     "name": "ShoffreeProvider"
-}
+},
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SagaProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
+        "name": "SagaProvider"
+    }
 ]
