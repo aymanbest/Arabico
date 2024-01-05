@@ -148,7 +148,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "SagaProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
         "name": "SagaProvider"
