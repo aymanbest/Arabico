@@ -152,5 +152,24 @@
         "internalName": "SagaProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
         "name": "SagaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "ToktokProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
+        "name": "ToktokProvider"
     }
 ]
