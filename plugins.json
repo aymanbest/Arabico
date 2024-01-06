@@ -167,7 +167,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "ToktokProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
         "name": "ToktokProvider"
