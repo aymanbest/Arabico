@@ -187,7 +187,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "Cima4uProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Cima4u.cs3",
         "name": "Cima4uProvider"
