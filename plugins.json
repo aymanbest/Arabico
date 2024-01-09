@@ -171,8 +171,7 @@
         "internalName": "ToktokProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
         "name": "ToktokProvider"
-    }
-    ,
+    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=o77.shop&sz=%size%",
         "apiVersion": 1,
@@ -191,5 +190,24 @@
         "internalName": "Cima4uProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Cima4u.cs3",
         "name": "Cima4uProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "ArabLionzProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabLionz.cs3",
+        "name": "ArabLionzProvider"
     }
 ]
