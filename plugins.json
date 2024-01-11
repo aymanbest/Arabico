@@ -209,5 +209,26 @@
         "internalName": "ArabLionzProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabLionz.cs3",
         "name": "ArabLionzProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 15389,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "Anime4upPack",
+        "description": "This pack contains Anime4up and Witanime Both Revamped by KingSlayer_007",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Anime4upPack.cs3",
+        "name": "Anime4upPack"
     }
 ]
