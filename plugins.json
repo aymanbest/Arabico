@@ -230,5 +230,24 @@
         "description": "This pack contains Anime4up and Witanime Both Revamped by KingSlayer_007",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Anime4upPack.cs3",
         "name": "Anime4upPack"
+    },
+    {
+        "iconUrl": "https://i.ibb.co/0VTHBBL/Design-sans-titre.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 15379,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 22,
+        "internalName": "TvLive",
+        "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/Dlhd.cs3",
+        "name": "TvLive"
     }
 ]
