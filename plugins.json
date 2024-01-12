@@ -265,7 +265,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Egydead",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
         "name": "EgydeadProvider"
