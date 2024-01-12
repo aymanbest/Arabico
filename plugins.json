@@ -249,5 +249,25 @@
         "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Dlhd.cs3",
         "name": "TvLive"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Egydead",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
+        "name": "EgydeadProvider"
     }
 ]
