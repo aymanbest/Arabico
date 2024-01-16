@@ -269,24 +269,5 @@
         "internalName": "EgyDeadProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
         "name": "EgyDeadProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ugeen.live&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 15379,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "UgeenTv",
-        "description": "Clone The Plogin With Your Own Link",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/Ugeen.cs3",
-        "name": "UgeenTv"
     }
 ]
