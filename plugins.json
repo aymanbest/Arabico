@@ -288,5 +288,24 @@
         "internalName": "3isk",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk.cs3",
         "name": "3isk"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "asian2tv",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/asian2tv.cs3",
+        "name": "asian2tv"
     }
 ]
