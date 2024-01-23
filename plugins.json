@@ -34,7 +34,7 @@
         "Movie",
         "Anime"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "MyCimaProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyCimaProvider.cs3",
     "name": "MyCimaProvider"
