@@ -53,7 +53,7 @@
         "TvSeries",
         "Movie"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "FajerShowProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/FajerShowProvider.cs3",
     "name": "FajerShowProvider"
