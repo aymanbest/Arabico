@@ -327,5 +327,25 @@
         "description": "New 3isk Site this one has 1080p quality and maybe this is the Real Site",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk_2.cs3",
         "name": "3isk v2"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CimaNowProvider",
+        "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
     }
 ]
