@@ -342,7 +342,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "CimaNowProvider",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/CimaNowProvider.cs3",
