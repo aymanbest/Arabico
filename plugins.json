@@ -365,5 +365,23 @@
         "internalName": "Btolat",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/btolat.cs3",
         "name": "Btolat"
+    },
+    {
+        "iconUrl": "https://i.ibb.co/ygGWcC0/oha-letter-logo-design-on-black-background-oha-creative-initials-letter-logo-concept-oha-letter-desi.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 15379,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Ohatv",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ohatv.cs3",
+        "name": "Ohatv"
     }
 ]
