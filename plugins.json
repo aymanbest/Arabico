@@ -383,5 +383,24 @@
         "internalName": "Ohatv",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/ohatv.cs3",
         "name": "Ohatv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://3kora.syrialive.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 15379,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Syrialive",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/syriatv.cs3",
+        "name": "Syrialive"
     }
+    
 ]
