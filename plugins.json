@@ -397,7 +397,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Syrialive",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/syriatv.cs3",
         "name": "Syrialive"
