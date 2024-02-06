@@ -417,7 +417,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "CoolCima",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/coolcima.cs3",
         "name": "CoolCima"
