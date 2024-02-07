@@ -14,7 +14,7 @@
         "Anime",
         "AsianDrama"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "FaselHDProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
@@ -417,7 +417,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "CoolCima",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/coolcima.cs3",
         "name": "CoolCima"
