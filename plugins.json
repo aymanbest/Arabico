@@ -120,7 +120,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/aymanbest/Arabico",
     "fileSize": 16939,
-    "status": 0,
+    "status": 1,
     "language": "ar",
     "authors": [
         "KingSlayer_007"
@@ -129,7 +129,7 @@
         "TvSeries",
         "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "ShoffreeProvider",
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/ShoffreeProvider.cs3",
     "name": "ShoffreeProvider"
