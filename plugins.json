@@ -158,7 +158,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 13531,
-        "status": 0,
+        "status": 1,
         "language": "ar",
         "authors": [
             "KingSlayer_007"
@@ -167,7 +167,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "ToktokProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
         "name": "ToktokProvider"
