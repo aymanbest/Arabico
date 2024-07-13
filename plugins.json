@@ -167,7 +167,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "ToktokProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
         "name": "ToktokProvider"
@@ -215,7 +215,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 15389,
-        "status": 0,
+        "status": 1,
         "language": "ar",
         "authors": [
             "KingSlayer_007"
@@ -225,7 +225,7 @@
             "AnimeMovie",
             "Others"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "Anime4upPack",
         "description": "This pack contains Anime4up and Witanime Both Revamped by KingSlayer_007",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/Anime4upPack.cs3",
