@@ -333,7 +333,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 13531,
-        "status": 0,
+        "status": 2,
         "language": "ar",
         "authors": [
             "KingSlayer_007"
@@ -342,7 +342,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "CimaNowProvider",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/CimaNowProvider.cs3",
