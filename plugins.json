@@ -436,7 +436,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "Braflix",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/braflix.cs3",
         "name": "Braflix"
