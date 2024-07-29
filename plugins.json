@@ -427,7 +427,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 16939,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "kingslayer_007"
@@ -438,6 +438,7 @@
         ],
         "version": 15,
         "internalName": "Braflix",
+        "description": "Disabled because some genius decided to tattle to the site owner, and they slapped Cloudflare on it. Nice going, guys.",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/braflix.cs3",
         "name": "Braflix"
     },
