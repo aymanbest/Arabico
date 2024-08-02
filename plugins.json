@@ -496,7 +496,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "Y.A.P.S",
         "description": "Yet Another Piracy Site",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/yaps.cs3",
