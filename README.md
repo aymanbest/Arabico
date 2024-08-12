@@ -1,11 +1,13 @@
-`Disclaimer`
+## Disclaimer
 
-Any legal issues regarding the content on this application should be taken up with the actual file hosts and providers themselves as we are not affiliated with them.
+Please read the following carefully:
 
-In case of copyright infringement, please directly contact the responsible parties or the streaming websites.
+- **Content Responsibility**: CloudStream 3, along with its extension, does not host or upload any content. We simply aggregate links that are publicly accessible on third-party websites. We have no control over what media is made available or removed. The app and extension function similarly to search engines like Google, providing links in a user-friendly interface.
 
-The app is purely for educational and personal use.
+- **Legal Concerns**: Any legal issues regarding the content available through this application or its extension should be addressed directly with the file hosts and providers. CloudStream 3 is not affiliated with them. In case of copyright infringement, please contact the responsible parties or streaming websites directly.
 
-CloudStream 3 does not host any content on the app, and has no control over what media is put up or taken down. CloudStream 3 functions like any other search engine, such as Google. CloudStream 3 does not host, upload or manage any videos, films or content. It simply crawls, aggregates and displayes links in a convenient, user-friendly interface.
+- **Usage**: This app and its extension are intended solely for educational and personal use. Users are responsible for adhering to the laws governing their locality. By using CloudStream 3, you accept full responsibility for your actions.
 
-It merely scrapes 3rd-party websites that are publicly accessable via any regular web browser. It is the responsibility of user to avoid any actions that might violate the laws governing his/her locality. Use CloudStream 3 at your own risk.
+- **Risks**: Use CloudStream 3 and its extension at your own risk. We are not liable for any legal consequences that may arise from the use of this application or its extension.
+
+Thank you for using CloudStream 3 and its extension responsibly.
