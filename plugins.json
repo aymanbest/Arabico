@@ -522,5 +522,26 @@
         "description": "Drama Cafe",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/dramacafe.cs3",
         "name": "Drama Cafe"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://anime3rb.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Anime3rb",
+        "description": "Anime Arabe",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/anim3rb.cs3",
+        "name": "Anime3rb"
     }
 ]
