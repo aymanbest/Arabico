@@ -557,7 +557,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Cimastar",
         "description": "Cima star",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/cimastar.cs3",
