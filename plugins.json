@@ -543,5 +543,24 @@
         "description": "Anime Arabe",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/anim3rb.cs3",
         "name": "Anime3rb"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://a.cima-star.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Cimastar",
+        "description": "Cima star",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/cimastar.cs3",
+        "name": "Cimastar"
     }
 ]
