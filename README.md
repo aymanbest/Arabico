@@ -1,5 +1,3 @@
----
-
 # CloudStream 3 Disclaimer
 
 > **⚠️ Notice:** This plugin is discontinued. It is now archived and available in a read-only state.
